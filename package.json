@@ -1,18 +1,21 @@
 {
-  "name": "PROJECT-NAME",
+  "name": "record-keeper",
   "version": "0.1.0",
-  "description": "$PROJECT_DESCRIPTION$",
-  "keywords": [],
+  "description": "A javascript package for recording named values at different verbosity levels",
+  "keywords": [
+    "logging",
+    "records"
+  ],
   "author": "Brian Mearns <mearns.b@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mearns/PROJECT-NAME.git"
+    "url": "git+https://github.com/mearns/record-keeper.git"
   },
   "bugs": {
-    "url": "https://github.com/mearns/PROJECT-NAME/issues"
+    "url": "https://github.com/mearns/record-keeper/issues"
   },
-  "homepage": "https://github.com/mearns/PROJECT-NAME#readme",
+  "homepage": "https://github.com/mearns/record-keeper#readme",
   "engines": {
     "node": "^10.9.0"
   },
